@@ -29,12 +29,10 @@
     encoder_left0: encoder_left0 {
         compatible = "alps,ec11";
         steps = <80>;
-        status = "disabled";
     };
     encoder_right0: encoder_right0 {
         compatible = "alps,ec11";
         steps = <80>;
-        status = "disabled";
     };
 
     sensors: sensors {
