@@ -75,5 +75,18 @@
       ]
     }
   },
-  "sensors": []
+    "sensors": [
+    {
+      "ref": "encoder_left0",
+      "name": "Left Encoder",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "ref": "encoder_right0",
+      "name": "Right Encoder",
+      "x": 10,
+      "y": 1
+    }
+  ]
 }
