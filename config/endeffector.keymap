@@ -15,7 +15,7 @@
 &kp A         &kp B  &kp C  &kp D         &kp E  &kp F    &kp G  &kp H         &kp I  &kp J  &kp K         &kp L
             >;
 
-            sensor-bindings = <&inc_dec_kp A B &inc_dec_kp C D>;
+            sensor-bindings = <&inc_dec_kp A B>;
         };
     };
 };
