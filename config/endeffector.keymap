@@ -30,6 +30,8 @@
 &trans     &trans    &trans       &trans    &trans      &trans       &trans  &trans    &trans  &trans  &trans     &kp MINUS  &kp PLUS      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
 &trans               &trans       &trans    &trans                   &trans  &trans    &trans  &trans             &trans     &trans        &trans                                       &trans
             >;
+
+            sensor-bindings = <&inc_dec_kp A B>;
         };
 
         raise {
