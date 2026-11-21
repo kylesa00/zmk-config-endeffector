@@ -8,7 +8,7 @@
         compatible = "zmk,combos";
 
         GamingLayer {
-            bindings = <&tog 0>;
+            bindings = <&tog 5>;
             key-positions = <11 10>;
         };
     };
